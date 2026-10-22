@@ -1,7 +1,4 @@
 # Assignment 2 – Setup Proof (VS Code, Node.js, Live Server)
-
-> A screenshot has to come from  *your* machine, so I can't generate it for you. Follow the checklist, take the screenshot, save it as `screenshots/setup-proof.png` and the embed line below will display it.
-
 ## Steps
 1. **VS Code** – open it, then *Help → About* (note the version).
 2. **Node.js** – open the VS Code terminal (`` Ctrl+` ``) and run:
